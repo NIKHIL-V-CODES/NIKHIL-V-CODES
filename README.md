@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil 👋
+# Hi, I'm Nikhil 
 **| Connected & Autonomous Vehicle Engineer | ADAS Application Development, Simulation and Validation | AV Software |**
 I am an automotive software and simulation engineer with a background in **Connected and Autonomous Vehicle Engineering** and hands-on experience across **ADAS, C-V2X, scenario simulation, validation, perception pipelines, and autonomous behaviour planning**. My work sits at the intersection of **vehicle software, testing, simulation, and decision-making for automated driving systems**.
 I recently completed my **MSc in Connected and Autonomous Vehicle Engineering at Cranfield University**, following two years of industry experience as a **Software Engineer at Danlaw**. My technical focus spans **Python, C++, MATLAB/Simulink, ROS 2, CARLA, SUMO, Autoware, perception workflows, validation frameworks, and scenario-based testing for intelligent vehicles**.
